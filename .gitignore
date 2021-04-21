@@ -1,0 +1,10 @@
+*.ld
+*.launch
+*.elf
+*.mk
+*.bin
+*.o
+*.exe
+*.d
+*.su
+*.map
